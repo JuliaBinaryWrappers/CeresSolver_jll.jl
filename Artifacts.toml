@@ -1,288 +1,288 @@
 [[CeresSolver]]
 arch = "aarch64"
-git-tree-sha1 = "3f347896fee5c35c533d64f5831238e154d18d30"
+git-tree-sha1 = "d5b844e177e4bf1214589c800ce1697cb71c82cf"
 os = "macos"
 
     [[CeresSolver.download]]
-    sha256 = "f43613ebcaeb52b673ef565cc80ae21b909eb1d90f0722a0919a02e77fe4d616"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "475cda2c435cab941bcd34f9ca5ccd9a8401f9a8638da1cd9b75a3cd8e6d7193"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.aarch64-apple-darwin.tar.gz"
 [[CeresSolver]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d32dee976b5661039a44124d2653006118c80308"
+git-tree-sha1 = "fc16e4734307e7b6fea7e6ef37a8f605718e9bbd"
 libc = "glibc"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "5911db44f7d3b340acad4348d16dad85439cc68a97db99a01b204f0c623e4251"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "e8d64a9aef8d643690deec303aac871604a81f2764f5940ef22f00f5b28eb58b"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[CeresSolver]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "344c638e41cdfdce77498423c81ad67fcff71e55"
+git-tree-sha1 = "d2d34ef1ec4c88714fa2042de8e73686e764c9a2"
 libc = "glibc"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "c1de71c1e336cf6fc3903f1f4bb2929e7b4ca9255a10208b74da2e049106f268"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "5e8055bcff9cc0f811ef96f92e423587f6035bf3a4a3a4b6e1184b0b8d4a0a19"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[CeresSolver]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e7613f7da7c9cd4838636433a37d9ca96ac27aff"
+git-tree-sha1 = "29267a4b94cf3d3ae09a8d930841bf6cc5a4b449"
 libc = "musl"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "145e06e80f0953da4d4c893de7f63a782a1da0eabb4ede0d576ae20a165b9448"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "c549ce0d249c1939a50d77cd109e9256b24bbc742f629950fc2a96ceeb8ca1de"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.aarch64-linux-musl-cxx03.tar.gz"
 [[CeresSolver]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2c67681e6a68a93ceac109b555f5263fd468317f"
+git-tree-sha1 = "9aa6c27745d7862dcc33709bd0b4c4949c7a0ab1"
 libc = "musl"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "d375861997894cfcfa926bccd6fe8ac2defc6c01907a5d278492f3ce5b4ecdea"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "e9de4b7f991e6cbd739261a82ec15fa03b994bd7301df90fd56c3a1ce76e1b08"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.aarch64-linux-musl-cxx11.tar.gz"
 [[CeresSolver]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9119530282f501e626e52cb3191887bf6b50d9b1"
+git-tree-sha1 = "fd1432334f05859e1ce2bf73ecbb0ae6d10a6066"
 libc = "glibc"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "27e5d680468a21c14f5ddd8bc654d6661235dafb70eb6c3868e392618e2eafa0"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "4273e40f2e225f38f01fa2f10dde9b2e95931a0a8416effdeeea4a68b52f9eb7"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[CeresSolver]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b998ec6adcf93ae5dc8528e7c6f5f4e1521207fb"
+git-tree-sha1 = "b0d947c0158159e88490d7b24592b36d423f9368"
 libc = "glibc"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "03993d45babb5af83f9c5bc12209539daae2ab1da39bf3fbbabb12347f2f4d94"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "f48c3874cf41028578b6c8a88651c5fac61fcb70c9207f9bef8db89f790f6dd1"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[CeresSolver]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ef785b54c80f8353893895d79cfd6089f6e57aca"
+git-tree-sha1 = "6217483e5e423c5123695cd22be3e2df3065817e"
 libc = "musl"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "9d9af1c891bdfcd4f63692ef247d7b62d1850a304e24c29fd1166fa4d521aad8"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "7082baf2c9b7fa418904a39d7c94b4b5b92f53e04a88e91364946b38d4d5cbeb"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[CeresSolver]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2e7684dfcaf5262a5ab214428aac497f1386692f"
+git-tree-sha1 = "63bb395c37886707929c19767dc7364446e75a5a"
 libc = "musl"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "b54b3d0d0d05541ac7d6ef4c0bc1d497bbcba950af0e27cbadb53a46914023dd"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "02118d8a066dd6fb755e16934b99318aaf8890cb974f248f82339ac252106e60"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[CeresSolver]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2389823cbd1677ae1f8cd9ab4d432d379e46372b"
+git-tree-sha1 = "75e5a645496c84e2c858650d2a591886c3c56109"
 libc = "glibc"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "40b4d17a5cbe200f5089e95b97bea7461fb487035b4d2db5502f6bd194e3e80b"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "df4448e58ecc2ab7d879ebce2426e3ad2efab4f1028d09ab73000aa56000a57b"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[CeresSolver]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ceca397ba54516b2d82fb159677bf5b923f9da42"
+git-tree-sha1 = "9104d6db1d3c9011a73e1ca57fb8bed404c609c1"
 libc = "glibc"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "78b35375d36a4a3f72e0e9d761d8fcd7236b5b44867f24443ef173191c75e246"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "2d718586d63a04b4596bab9ae279095998e5c367436e98dfdb7fb0579a0dc647"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[CeresSolver]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "db2f7a699e5b077b36bcce15e24fb500db28dd11"
+git-tree-sha1 = "fa2ca97a26ac897a54bbdfa914cb932bbe46fc9e"
 libc = "musl"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "49dddf6962a73619806c47a8b696b692d80472a9160b1fad6f946477fd7e42a4"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "639d3a9908803a551eb5ddec747140cb9682593523bbdea4f25bd71c2f1b51e9"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[CeresSolver]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "55eeeb6e86fe43e19d1836831658495614254caa"
+git-tree-sha1 = "5c8dc9e8533f2fd1a51ac84fe0d46a1376170173"
 libc = "musl"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "71dd9333a6019fb93af1d4badaa613928c0df11ba20a092d8595f6737f6750c2"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "49a3a727bdb4c39c4779e6fc824c34067ef050fa657e2373e4882941e2247e1a"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[CeresSolver]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ff85d84887db792eabecc897a5f42b294643d8b2"
+git-tree-sha1 = "1271db34309ae117ea4bfbe2654815330e28b182"
 libc = "glibc"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "a6dedcd0e45ab2848a043a9722bc3baf83c5aa79b581dafb5859b32fc2e3612c"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "ace593cbd480b1bec160a95efcd063f9ff9038f13f6c6f66a6ad3da8dba5e4cb"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.i686-linux-gnu-cxx03.tar.gz"
 [[CeresSolver]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a701c7a4e124b9d12c6cc38b306c17a8bf2f21b1"
+git-tree-sha1 = "9abb817ef0454787364ca12c2f22a7e8d3c76305"
 libc = "glibc"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "8db3a62fc1b42d43f72abff2ba5e4f81a1f8319422d0c1db2d40861906ef7462"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "3daff9691d3aa217c1ba4815d4b9a5a8e31d77797b05421469dd9c9175d6574e"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.i686-linux-gnu-cxx11.tar.gz"
 [[CeresSolver]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "efb08485d737817d5759771048764f675125becc"
+git-tree-sha1 = "898b15212393fd770658c881c08a7a39c4f43aa0"
 libc = "musl"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "20bb4bf710a27abea229ac66e5235b8d2c0d6b6df60a3c0ac7ece0461bbd9a2b"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "858e91dd396d2a1b2307a5ad46571a61dac7f4d7aef7db6feb7f01d2fb1a752f"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.i686-linux-musl-cxx03.tar.gz"
 [[CeresSolver]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "212b405a316aee2dd3418771571e94cd58651a54"
+git-tree-sha1 = "0d962fe16c3b7fa72012c1bfd9ede99d4eaf13fa"
 libc = "musl"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "2b6b646cf01ce8ceb9290db3a596f4568ee39145ba5fb50390a39e65e352cdac"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "387815073d5ef871caf43bc5a3c61fb036523115bdac22df847dd206493bce3b"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.i686-linux-musl-cxx11.tar.gz"
 [[CeresSolver]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "649f56a3149987a425661d36f761391b77006095"
+git-tree-sha1 = "0df2d8b7f7edc728f57c1a2476e3d68c448e58a3"
 os = "windows"
 
     [[CeresSolver.download]]
-    sha256 = "5933931fac0c4c903d043bbc6f5ab10df8ddf4eb149f9a5bbf36c4f0da09a7e7"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "7efaa005442b4a35c77b11b11c7e32295382012fdbe446ed3d7b8d89327a4621"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.i686-w64-mingw32-cxx03.tar.gz"
 [[CeresSolver]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d316f8ddb8f628eb91825097c6989d31da800501"
+git-tree-sha1 = "ae29f6039e3d223be47867ec5b5e511ec00833be"
 os = "windows"
 
     [[CeresSolver.download]]
-    sha256 = "9dc9979bc4cff0572d41935dd1972f10a6c2b3382bd7d276e7a7b1c269d6b85a"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "0fca705abc185739e9e7ffd4000dcdd33c8d3d303cf10a6bad35ff8230521092"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.i686-w64-mingw32-cxx11.tar.gz"
 [[CeresSolver]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9bcaef6bfacb94376d9f9d17d6182dceb05e78c2"
+git-tree-sha1 = "f82a5746c1fa5c736801a2b571e97ba9ee44d2f1"
 libc = "glibc"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "43c93f59835632f278202f6ae71a5f62a789c924cd5db75ff70f9c2600d90472"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "3389045cdbe63f76bc6a0484ce59a667c575df2afe7e8581827b081bc3f38887"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[CeresSolver]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fd41886fc18c7f2ebeccc166cfc428b2a24fad98"
+git-tree-sha1 = "97f250aad78daeb063027e626ec287cf01f91fef"
 libc = "glibc"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "57e606f5b67d60875ecfb5272265b1960785da953e4815446a8beeb09226bf85"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "62928edd655cc04b1b28748b6d14618a0a7d2f77992d48450e769db1df22b625"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[CeresSolver]]
 arch = "x86_64"
-git-tree-sha1 = "80b276c2a54086c8ba5a648c750a377e049b9484"
+git-tree-sha1 = "9cc84a2a622272d5ac0198e14053eff424ab2000"
 os = "macos"
 
     [[CeresSolver.download]]
-    sha256 = "fa3b92b27b7c437c36452008327c4579d9209708197a915e10f2b3c0e59d2095"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "b1c15a1758897bda53beaab23ac6f090374374d1e42ca7fc2447dc31c560abe0"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.x86_64-apple-darwin.tar.gz"
 [[CeresSolver]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5b507050b6693b436a0cabb311ec10941f4904cb"
+git-tree-sha1 = "8e1ff980913571d6c170bbd0545241532384879b"
 libc = "glibc"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "66717adb543ef4cc37cf83bac585800aebb1006bd9bc266ef57b3715263c7ecf"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "ace1f1e6d523b9421c98b1546035f5b015ec57d0310a054e9c2fb57e6ae95f74"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[CeresSolver]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d137110a8d2540ce7c5d544b481ce9aff7a5594a"
+git-tree-sha1 = "fe59a5dbc3ca8fe4642cab026569619f0dcd47f7"
 libc = "glibc"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "924aff7ea5a629c61146e7cae009bc34d8d104c4f087032dbf8f2a4c2d5a1347"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "c6c9e19d27306e9547ccf3ae59683c83f0ea7f6d4d6ee622119c07fb0020e3ed"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[CeresSolver]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "38b02cd04db910acc60ac903280383cd34b1276f"
+git-tree-sha1 = "318a9213a1749c296dbd180244155877dec26282"
 libc = "musl"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "fff7a2be825921d981cbc939474e1f9a1f2f1f23133491e924feb752ee477f74"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "6899c8488ba4bb5c9a31990bc9e55f71211b09f49c4edb7334a0b8517642bc46"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.x86_64-linux-musl-cxx03.tar.gz"
 [[CeresSolver]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "04c8610723747c5c678c04d75037891fba9e88bd"
+git-tree-sha1 = "5e62886f9c164b8d8be2cd5f7c3d8816eef59ae9"
 libc = "musl"
 os = "linux"
 
     [[CeresSolver.download]]
-    sha256 = "16241834a3624f47777c3ec9fd7698cb66b4f74b17c7f1f7db2d92214be4c6d9"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "a41deedcf4a391ffebacbe005cb4b32c7b92a053b6d84ebf174828b67b495794"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.x86_64-linux-musl-cxx11.tar.gz"
 [[CeresSolver]]
 arch = "x86_64"
-git-tree-sha1 = "6ba11d2f27e7f31da4f25b8488f224baa89a138f"
+git-tree-sha1 = "c834e3b9134ef041da68bebfc16343c07560cc58"
 os = "freebsd"
 
     [[CeresSolver.download]]
-    sha256 = "8e9ed9cef23f9fd5a6fb1f8c49540346c09269a6472fb4bd8f9dfb285e0209ff"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "f32fd6434b8e788139bffd35103db5e31356cc9bbed694269a4b0433f0927a5d"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.x86_64-unknown-freebsd.tar.gz"
 [[CeresSolver]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6534230f7a96c5349108b2673c9cb6f1c4c42742"
+git-tree-sha1 = "30efd247d3617570a5b1f26c5ecf3321a248058e"
 os = "windows"
 
     [[CeresSolver.download]]
-    sha256 = "8446ce08b060e918429c23984694cb6aa61d86a4f85a62c139d2b751e269c46a"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "a5423bd4d8bce75aeeec68f5c0b27f1106d883749000ac625b6fff7547c54ec4"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[CeresSolver]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7789431efd8fd1806984f8e4113a18721bc20dcd"
+git-tree-sha1 = "90e683cc8e3304b7b2f536f4fc7f6cf710c5fe03"
 os = "windows"
 
     [[CeresSolver.download]]
-    sha256 = "7c0c93a5d5bd918199173f2b5d605a25b16165925f160deba996111e0e1eb4e1"
-    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.1.0+0/CeresSolver.v2.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "f2a85a8df953ebfbd3ae0bb0844b3a87f27e0c6b57806d386c198211388d7b99"
+    url = "https://github.com/JuliaBinaryWrappers/CeresSolver_jll.jl/releases/download/CeresSolver-v2.2.0+0/CeresSolver.v2.2.0.x86_64-w64-mingw32-cxx11.tar.gz"
